@@ -108,3 +108,4 @@ PRs will be **closed** if:
 - No documentation or unclear use case
 - Less than 100 GitHub stars without Hidden Gem justification
 - Repository less than 1 months old
+Bitte sende eine Email an:lieblings_kollege@firma.com
